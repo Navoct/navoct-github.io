@@ -20,7 +20,7 @@ function myFunction() {
 
     account: {
         id: 765,
-        accountName: "Vijaya",
+        accountName: "Navya",
     }
 });
 }
